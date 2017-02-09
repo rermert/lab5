@@ -3,7 +3,7 @@
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
 	initializePage();
-	$("a.anagram").click(nameClick)
+	$("a.anagram").click(nameClick);
 })
 
 /*
